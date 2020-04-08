@@ -1,4 +1,4 @@
-# Power_Forecasting
+# PowerForecasting
 Time Series Analysis and User Behaviour Learning to forecast power usage in a household. 
 
 ## Dataset
@@ -9,7 +9,7 @@ The models can be used for any new data, provided they are available in the give
 ### Initialisation
 - Clone the repository
 ```
-git clone https://github.com/Home-Electricity-Manager/Power_Forecasting.git
+git clone https://github.com/Home-Electricity-Manager/PowerForecasting.git
 ```
 - Install the dependencies 
 ```

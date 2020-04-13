@@ -9,7 +9,7 @@ The models can be used for any new data, provided they are available in the give
 ### Initialisation
 - Clone the repository
 ```
-git clone https://github.com/Home-Electricity-Manager/PowerForecasting.git
+git clone https://github.com/neilgautam/PowerForecasting.git
 ```
 - Install the dependencies 
 ```
